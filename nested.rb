@@ -83,6 +83,10 @@ def adding_matz
       :dennis_ritchie => {
         :known_for => "Unix",
         :languages => ["C"]
+      },
+      :yukihiro_matsumoto => {
+        :known_for => "Ruby",
+        :languages => ["LISP", "C"]
       }
     }
 
@@ -99,12 +103,12 @@ def changing_alan
         :languages => ["COBOL", "FORTRAN"]
       },
       :alan_kay => {
-        :known_for => "Object Orientation",
+        :known_for => "GUI",
         :languages => ["Smalltalk", "LISP"]
       },
       :dennis_ritchie => {
         :known_for => "Unix",
-        :languages => ["C"]
+        :languages => ["C","Assembly"]
       }
     }
 
@@ -126,7 +130,7 @@ def adding_to_dennis
       },
       :dennis_ritchie => {
         :known_for => "Unix",
-        :languages => ["C"]
+        :languages => ["C","Assembly"]
       }
     }
 
